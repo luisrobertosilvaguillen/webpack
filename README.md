@@ -19,7 +19,7 @@ Basics Webpack examples
   
  4.
  
-  - Find the folder ./dist inside the script folder executed previously
+  - Find the folder `./dist` inside the script folder executed previously
  
  
  By: Luis Silva
