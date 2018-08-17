@@ -1,7 +1,7 @@
 # Webpack Examples
 
 ## About
-Basics examples about Webpack
+Basics Webpack examples 
 
 
 ## Intructions
@@ -13,6 +13,13 @@ Basics examples about Webpack
  
   - `npm install`
  
+ 3.
+ 
+  - Look for an example and execute the script. Example: `npm run build:video`
+  
+ 4.
+ 
+  - Find the folder `./dist` inside the script folder executed previously
  
  
  By: Luis Silva
