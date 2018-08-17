@@ -1,7 +1,7 @@
 # Webpack Examples
 
 ## About
-Basics examples about Webpack
+Basics Webpack examples 
 
 
 ## Intructions
