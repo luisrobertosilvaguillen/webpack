@@ -1,0 +1,55 @@
+@font-face {
+  font-family: 'open_sansregular';
+  src: url([object Object]);
+  src: url([object Object]?#open_sansregular) format('embedded-opentype'),
+       url([object Object]#open_sansregular) format('woff'),
+       url([object Object]#open_sansregular) format('truetype'),
+       url(./dist/3ed2bcffd36fb8cfd6b16cafe9735a78.svg#open_sansregular) format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background: lightblue;
+  height: 100vh;
+  margin: 0;
+  font-size: 40px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  font-family: open_sansregular;
+  /*background-image: url('../images/platzi.png');*/
+  background-size: contain;
+}
+.Teacher {
+  border: 1px solid #f00;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  background: #008000;
+}
+@media only screen and (max-width: 768px) {
+  .Teacher {
+    background: #00f;
+  }
+}
+.Teachers {
+  border: 5px dashed orange;
+  background: gray;
+  padding: 10px; }
+body {
+  background: #5b83ad;
+}

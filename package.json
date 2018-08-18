@@ -19,7 +19,8 @@
     "build:react": "webpack --config ./react/webpack.config.js",
     "build:sass": "webpack --config ./sass-loader/webpack.config.js",
     "build:stylus": "webpack --config ./stylus-loader/webpack.config.js",
-    "build:less": "webpack --config ./less-loader/webpack.config.js"
+    "build:less": "webpack --config ./less-loader/webpack.config.js",
+    "build:postcss": "webpack --config ./postcss-loader/webpack.config.js"
   },
   "keywords": [
     "webpack"
@@ -39,6 +40,9 @@
     "less-loader": "4.0.5",
     "nib": "1.1.2",
     "node-sass": "4.5.3",
+    "postcss": "6.0.13",
+    "postcss-cssnext": "3.0.2",
+    "postcss-loader": "2.0.8",
     "rupture": "0.6.2",
     "sass-loader": "6.0.6",
     "style-loader": "0.19.0",
