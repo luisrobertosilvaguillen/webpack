@@ -1,0 +1,20 @@
+{
+  "teachers": [
+    {
+      "name": "Teacher1",
+      "twitter": "teacher1"
+    },
+    {
+      "name": "Teacher2",
+      "twitter": "teacher2"
+    },
+    {
+      "name": "Teacher3",
+      "twitter": "teacher3"
+    },
+    {
+      "name": "Teacher4",
+      "twitter": "teacher4"
+    }
+  ]
+}
